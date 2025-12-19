@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+
+common:
+  config:
+    message: HELLO FROM COMMON CONFIG

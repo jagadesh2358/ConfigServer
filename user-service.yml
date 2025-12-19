@@ -1,0 +1,6 @@
+app:
+  name: User Service
+
+service:
+  config:
+    message: HELLO FROM SERVICE CONFIG
