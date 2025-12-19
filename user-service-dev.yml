@@ -4,4 +4,4 @@ app:
 
 service:
   config:
-    message: HELLO FROM SERVICE DEV CONFIG
+    message: HELLO FROM SERVICE DEV CONFIG, Hello Again
